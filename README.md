@@ -1,5 +1,5 @@
 # RWKV-AlignBench
-RWKV模型中文对齐评测结果
+RWKV模型中文对齐评测结果 (see Appendix F.1 of paper https://arxiv.org/pdf/2404.05892v1.pdf)
 
 <img align="center" src="align.png" width="750">
 
